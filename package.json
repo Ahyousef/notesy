@@ -1,0 +1,26 @@
+{
+  "name": "notesy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notes.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahyousef/notesy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahyousef/notesy/issues"
+  },
+  "homepage": "https://github.com/Ahyousef/notesy#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
