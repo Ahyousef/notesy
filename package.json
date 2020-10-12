@@ -7,7 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint **/*.js --fix",
+    "test": "jest --coverage --verbose"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/Ahyousef/notesy#readme",
   "dependencies": {
+    "jest": "^26.5.3",
     "minimist": "^1.2.5"
   }
 }

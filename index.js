@@ -7,6 +7,5 @@
 const Input = require('./lib/input.js');
 const Notes = require('./lib/notes.js');
 
-let instance = new Input();
-// console.log(instance);
-let notesInstance = new Notes(instance);
+const note = new Input();
+new Notes(note);
