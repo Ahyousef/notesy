@@ -23,6 +23,8 @@
   "homepage": "https://github.com/Ahyousef/notesy#readme",
   "dependencies": {
     "jest": "^26.5.3",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.5",
+    "mongoose": "^5.10.9",
+    "supergoose": "^0.2.6"
   }
 }
