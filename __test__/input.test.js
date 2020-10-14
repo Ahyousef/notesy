@@ -11,7 +11,7 @@ describe('Input',()=>{
     describe('validateCommand',()=>{
         it('Wrong method',()=>{
             const note = new Input();
-            expect (note.validateCommand('delete')).toEqual(false);
+            expect (note.validateCommand('ads')).toEqual(false);
         });
         it('Correct method and data associated',()=>{
             const note = new Input();
