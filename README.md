@@ -2,7 +2,7 @@
 
 An application that lets you Create,Read and Delete notes from a mongoose Database.
 
-##Journal:
+## Journal:
 
 Day1: Make the files and directories. Make the first two constructors of input and notes.
 
